@@ -21,4 +21,5 @@ dependencies:
       - pyqt5==5.12.3
       - treeswift==1.1.20
       - jupyterlab
+      - ipywidgets
 prefix: ~/anaconda/envs/chumby
