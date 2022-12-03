@@ -10,10 +10,10 @@ We will be running code within a conda environment. If you do not have Anaconda 
 Run the following commands in your BASH terminal.
 
 ```
-# Create a conda environment using environment.yml
-# The environment will be created under the name "embedding_trees", defined in the yml file
+# Create a conda environment using environment.yaml
+# The environment will be created under the name "embedding_trees", defined in the yaml file
 
-conda env create -f environment.yml
+conda env create -f environment.yaml
 
 # Activate the new conda environment
 
