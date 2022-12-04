@@ -45,7 +45,7 @@ This repository provides tutorials for generating trees-based visualizations of 
 
 ### Beginner tutorial
 
-To try the beginner's tutorial, open `simplified_tutorial.ipynb`.
+To try the beginner's tutorial, open `simple_tutorial.ipynb`.
 
 To provide a brief overview of the tutorial:
 1. Read a fasta file of protein sequences.
