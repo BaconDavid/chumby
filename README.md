@@ -55,13 +55,14 @@ To provide a brief overview of the tutorial:
     - In this example, we will be specifically using the average of all sequence tokens.
 4. Calculate an all-vs-all distance matrix from the fixed-size sequence embeddings.
     - In this example, we will be specifically using cosine distance.
-5. Applying the neighbor joining algorithm to calculate a tree from the distance matrix.
-6. Viewing the tree using the `ete3` library.
+5. Apply the neighbor joining algorithm to calculate a tree from the distance matrix.
+6. Plot and view the tree using the `ete3` library.
 
 
 ### Advanced tutorial
 
 The advanced tutorials are a series of four notebooks which need to be completed in order:
+
 - `step1-1_gen_embeddings.ipynb`
     - Read a fasta file and generate embeddings using the ESM-1b language model.
     - Compress and save the generated sequence embeddings into an SQLite database.
