@@ -1,7 +1,10 @@
-# Embedding trees
+# Introduction
 
-This repository contains the code and datasets for the manuscript "Tree-based visualizations of protein sequence embedding space enables improved functional classification of diverse protein superfamilies".
+This respository contains the code and dataset for:
 
+[**Tree visualizations of protein sequence embedding space enable improved functional clustering of diverse protein superfamilies.**](https://doi.org/10.1093/bib/bbac619)\
+Wayland Yeung, Zhongliang Zhou, Liju Mathew, Nathan Gravel, Rahil Taujale, Brady O’Boyle, Mariah Salcedo, Aarya Venkat, William Lanzilotta, Sheng Li, Natarajan Kannan.\
+*Briefings in Bioinformatics.* (2023)
 
 
 # Installing dependencies
