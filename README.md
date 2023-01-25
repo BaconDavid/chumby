@@ -2,7 +2,7 @@
 
 This respository contains the code and dataset for:
 
-[**Tree visualizations of protein sequence embedding space enable improved functional clustering of diverse protein superfamilies.**](https://doi.org/10.1093/bib/bbac619)\
+[**Tree visualizations of protein sequence embedding space enable improved functional clustering of diverse protein superfamilies.**](https://academic.oup.com/bib/article/24/1/bbac619/6987820)\
 Wayland Yeung, Zhongliang Zhou, Liju Mathew, Nathan Gravel, Rahil Taujale, Brady O’Boyle, Mariah Salcedo, Aarya Venkat, William Lanzilotta, Sheng Li, Natarajan Kannan.\
 *Briefings in Bioinformatics.* (2023)
 
