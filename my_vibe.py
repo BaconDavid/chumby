@@ -95,7 +95,7 @@ def get_bipartitions(tree, names):
     generator  = (n for n in tree.traverse("postorder") if not n.is_leaf())
     
     size  = len(names)
-    bits  = np.zeros((size, size), dtype=np.int)
+    bits  = np.zeros((size, size), dtype=int)
     nodes = np.zeros((size), dtype=object)
     
     for n, node in enumerate(generator):

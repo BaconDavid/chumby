@@ -16,6 +16,8 @@ import esm
 
 import treeswift
 
+
+import sys
 ############################
 
 def walk(rootdir):
